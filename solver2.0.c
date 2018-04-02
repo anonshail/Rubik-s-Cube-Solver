@@ -1,8 +1,8 @@
 /*
 PROGRAM TO SOLVE THE RUBIK'S CUBE
 
-Programmer : kurithesheep
-Version : 1.1
+Programmer : anonshail
+Version : 2.0
 
 This program aim's to solve a rubiks cube in the most efficient way possible, without the program becoming unreadable.
 
