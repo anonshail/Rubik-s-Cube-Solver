@@ -4,8 +4,6 @@ PROGRAM TO SOLVE THE RUBIK'S CUBE
 Programmer : anonshail
 Version : 2.0
 
-This program aim's to solve a rubiks cube in the most efficient way possible, without the program becoming unreadable.
-
 I've decided to use a 6X3X3 3D array to store the currenct state of the rubik's cube.
 Each rotation involves 21(20+1 redundant centre piece) transitions.
 
