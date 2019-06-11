@@ -6,8 +6,6 @@ Version : 2.0
 
 I've decided to use a 6X3X3 3D array to store the currenct state of the rubik's cube.
 Each rotation involves 21(20+1 redundant centre piece) transitions.
-
-Alright, that's enough documentation, let's hit the code.
 */
 
 
